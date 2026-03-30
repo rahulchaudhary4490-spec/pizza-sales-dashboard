@@ -20,7 +20,7 @@ This project analyzes pizza sales data using SQL and visualizes insights using a
 - Dashboard Screenshot
 
 ## 📷 Dashboard Preview
-pizza_dashboard.jpeg
+![Dashboard](dashboard/pizza_dasboard.png)
 
 ## 💡 Skills Demonstrated
 - SQL Queries (JOIN, GROUP BY, Aggregation)
